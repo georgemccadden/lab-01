@@ -1,0 +1,16 @@
+* {
+    outline: grey;
+  }
+  
+body {
+    background-color: lightsteelblue;
+    max-width: 480px;
+    text-align: center;
+    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif';
+    font-size: 20px;
+}
+
+div, nav, header {
+    outline: 1px solid grey;
+}
