@@ -1,14 +1,14 @@
-* {
-  outline: black solid;
-}
+/* * {
+  outline: grey;
+} */
 
-body {
-  background-color: red;
+/* body {
+  background-color: lightsteelblue;
   width: 480px;
   margin: auto;
-}
+} */
 
-header {
+/* header {
   height: 75px;
   width: 480px;
 }
@@ -46,7 +46,7 @@ article {
 
 #article-f {
   float: right;
-}
+} */
   
   /* @media only screen and (min-width: 600px) {
     body {
